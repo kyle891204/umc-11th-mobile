@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-//메인함수
 void main() {
   runApp(const MovieLogApp());
 }
